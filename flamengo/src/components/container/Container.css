@@ -1,0 +1,14 @@
+.container {
+    max-width: 468px;
+    margin: 0 auto;
+    box-sizing: border-box;
+    border: 20px red;
+    background-color: white;
+    padding: 100px;
+}
+
+h1 {
+    color: #000;
+    margin-top: 0px;
+    margin-bottom: 80px;
+}
